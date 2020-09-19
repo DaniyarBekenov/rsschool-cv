@@ -27,3 +27,4 @@ I have no experience in web development.
 Bachelor’s Degree in Informatics
 
 8.English
+English language proficiency is below average
